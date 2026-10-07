@@ -1,0 +1,10 @@
+{
+  "name": "SafeStay - Tourism, Hospitality & Care",
+  "description": "SafeStay combines verified stays, bus mobility, healthcare essentials, tourist gear, doorstep delivery, and privacy-first customer care video rooms in one unified platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
